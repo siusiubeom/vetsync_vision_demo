@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project classifies dog behaviour from video clips into four categories: **eat/drink, sitting, standing, and moving**. It is a three-stage pipeline: manual segment labelling, ROI extraction with YOLOv8, and sequence-based classification using a CNN-LSTM or CNN-Transformer model.
+This project classifies dog behaviour from video clips into four categories: **eat/drink, sitting, and moving**. It is a three-stage pipeline: manual segment labelling, ROI extraction with YOLOv8, and sequence-based classification using a CNN-LSTM or CNN-Transformer model.
 
 Training data comes from the Kaggle dataset [Videos - Dog (umuttuygurr)](https://www.kaggle.com/datasets/umuttuygurr/videosdog).
 
