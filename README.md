@@ -125,14 +125,18 @@ Confusion matrices (raw counts and row-normalised) are saved to `checkpoints/`.
 
 ### LSTM — Confusion Matrix
 <img width="540" height="344" alt="image" src="https://github.com/user-attachments/assets/eb16c1f2-d547-4a65-8b68-15b27591227f" />
+
 Accuracy:    0.8716
 F1 (macro):  0.7670
 F1 (weighted): 0.8702
+
 ### Transformer — Confusion Matrix
 <img width="535" height="346" alt="image" src="https://github.com/user-attachments/assets/d557d829-5c2b-48b6-b62b-a6c257cf2600" />
+
 Accuracy:    0.9098
 F1 (macro):  0.8288
 F1 (weighted): 0.9057
+
 ---
 
 ## Stage 5 — Inference (`infer.py`)
